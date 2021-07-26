@@ -25,8 +25,4 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social:
-  - title: mail
-    url: mailto:cwalte12@mail.wvu.edu
-  - title: github
-    url: https://github.com/wvcarbon
+
