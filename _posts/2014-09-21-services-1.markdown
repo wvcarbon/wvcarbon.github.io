@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ss.png
+img: journal_cover.jpg
 category: Services
 title: Read the paper
 description: |
