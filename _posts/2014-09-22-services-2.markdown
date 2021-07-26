@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Read our Op-Ed
 description: |
 ---
-  Read our op-ed in the New York Times, arguing for a West Virginia carbon credit market that benefits all landowners.
+  Read our Op-Ed in the New York Times, arguing for a West Virginia carbon credit market that benefits all landowners.
