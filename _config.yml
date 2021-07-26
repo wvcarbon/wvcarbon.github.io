@@ -11,7 +11,7 @@ description: > # "Estimate carbon credits for forested land in West Virgina, USA
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Created by the Brzostek Lab at West Virginia University.'
-credits: 'The carbon credit estimator is a free to use, open source tool created at West Virginia University.'
+credits: 'The West Virginia Forest Carbon Credit Estimator is free to use, and licensed as open-source under the MIT license.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
