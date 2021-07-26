@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: ss.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Read the paper
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  The methods behind the West Virginia Forest Carbon Credit Estimator are available in our paper, now in review in the journal Environmental Research Letters.
