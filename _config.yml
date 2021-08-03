@@ -2,16 +2,16 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: West Virginia Forest Carbon Credit Estimator
+url: https://wvcarbon.github.io
+title: West Virginia Forest Carbon Estimator
 email: cwalte12@mail.wvu.edu
 author: Chris Walter
-description: > # "Estimate carbon credits for forested land in West Virgina, USA. 
+description: > # "Estimate carbon storage for forested land in West Virgina, USA. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Created by the Brzostek Lab at West Virginia University.'
-credits: 'The West Virginia Forest Carbon Credit Estimator is free to use, and licensed as open-source under the MIT license.'
+credits: 'The West Virginia Forest Carbon Estimator is free to use, and licensed as open-source under the MIT license.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
