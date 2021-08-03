@@ -5,4 +5,4 @@ category: Services
 title: Read the paper
 description: |
 ---
-  The methods behind the West Virginia Forest Carbon Credit Estimator are available in our paper, now in review in the journal Environmental Research Letters.
+  The methods behind the West Virginia Forest Carbon Estimator are available in our paper, now in review in the journal Environmental Research Letters.
