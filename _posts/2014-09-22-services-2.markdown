@@ -5,4 +5,4 @@ category: Services
 title: Read our Op-Ed
 description: |
 ---
-  Read our Op-Ed in the New York Times, arguing for a West Virginia carbon credit market that benefits all landowners.
+  Read our Op-Ed in the Gazette-Mail, arguing for a West Virginia carbon credit market that benefits all landowners.
